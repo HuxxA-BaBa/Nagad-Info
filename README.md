@@ -1,9 +1,12 @@
 # Nagad-Info Installation
-termux-setup-storage
 
 apt-get update
 
 apt-get upgrade
+
+apt update
+
+apt upgrade
 
 pkg install git
 
